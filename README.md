@@ -7,5 +7,5 @@ Files are ipynb. Each file contains a description of its content in the beginiin
 
 
 ## Datasets links:
-NCT-CRC-HE-100K: [link]([https://1drv.ms/u/s!AilzKc-njjP7mN0NOZvxl0TPAUxmig?e=K0TpeX](https://1drv.ms/u/s!AilzKc-njjP7mN0NOZvxl0TPAUxmig?e=K0TpeX))
+NCT-CRC-HE-100K: [link](https://1drv.ms/u/s!AilzKc-njjP7mN0NOZvxl0TPAUxmig?e=K0TpeX](https://1drv.ms/u/s!AilzKc-njjP7mN0NOZvxl0TPAUxmig?e=K0TpeX)
 Digital Pathology and Artifacts:  [link](https://1drv.ms/u/s!AilzKc-njjP7mN0M_LjB5xeAydDsrA?e=0obzsx)
