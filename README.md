@@ -5,7 +5,7 @@ The project aims to implement the VGG11 model, optimizing hyperparameters throug
 
 The files are in ipynb format, with each file providing a content description at the beginning. Typically, you only need to install the libraries specified at the start of the files and execute the code to perform training and testing.
 
-The intuitive way to follow the code, is to open the files in this order: 1) from-scratch-training VGG11 and grid search 2) from-scratch VGG11 + good hyperparameters + normalization 3) t-SNE on top of from-scratch best VGG11 model 4) VGG11 with transfer learning 5) t-SNE on top of the pretrained VGG11
+The intuitive way to follow the code, is to open the files in this order: **1)** from-scratch-training VGG11 and grid search **2)** from-scratch VGG11 + good hyperparameters + normalization **3)** t-SNE on top of from-scratch best VGG11 model **4)** VGG11 with transfer learning **5**) t-SNE on top of the pretrained VGG11
  
 
 
