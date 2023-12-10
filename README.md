@@ -5,7 +5,7 @@ The project is twofold. Task 1 aims to train VGG11 architectures on NCT-CRC-HE-1
 
 The files are in ipynb format, with each file providing a content description at the beginning. Typically, you only need to install the libraries specified at the start of the files and execute the code to perform training and testing.
 
-For Task 1, the intuitive way to follow the code, is to open the files in this order: <br> **1)** from-scratch-training VGG11 and grid search <br> **2)** from-scratch VGG11 + good hyperparameters + normalization <br> **3)** t-SNE on top of from-scratch best VGG11 model <br> **4)** VGG11 with transfer learning <br> **5**) t-SNE on top of the pretrained VGG11 <br> <br> <br>
+For Task 1, the intuitive way to follow the code, is to open the files in this order: <br> **1)** from-scratch-training VGG11 and grid search <br> **2)** from-scratch VGG11 + good hyperparameters + normalization <br> **3)** t-SNE on top of from-scratch best VGG11 model <br> **4)** VGG11 with transfer learning <br> **5**) t-SNE on top of the pretrained VGG11 <br> <br> 
 For Task 2, the files are independant, you install the libraries used in the first cell of each file, and you run the rest of the cells in the same order. The files names are also self-explanatory.
 
 
