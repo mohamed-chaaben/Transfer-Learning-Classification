@@ -1,4 +1,4 @@
-#Transfer Learning and Feature Extraction Using VGG11 for Medical and Natural Image Classification
+# Transfer Learning and Feature Extraction Using VGG11 for Medical and Natural Image Classification
 This project was completed as part of the COMP 6321 Machine Learning course. The attached PDF (report.pdf) is an IEEE-like paper summarizing the work.
 
 ## Description
